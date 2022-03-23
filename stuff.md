@@ -1,1 +1,4 @@
-# Placeholder
+# List
+
+- Typescript
+- Axios
