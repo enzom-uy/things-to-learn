@@ -22,4 +22,4 @@
 
 ### File structure suggestion 1:
 
-![file structure](https://i.imgur.com/t2TFEB3.png) (I'm not sure if this is the best way to do it, but it's a good idea)
+![file structure](https://i.imgur.com/t2TFEB3.png)
