@@ -12,8 +12,14 @@
 - [Typescript](https://www.typescriptlang.org/) (better javascript)
 - [Axios](https://www.npmjs.com/package/axios) (promise based HTTP client)
 - [Redux](https://es.redux.js.org/) (State container for React apps)
-- [Jotai](https://es.redux.js.org/) (State container for React apps. It's an alternative to Redux for medium-sized apps)
+- [Jotai](https://jotai.org/) (State container for React apps. It's an alternative to Redux for medium-sized apps)
+- [Jest](https://jestjs.io/) (testing framework)
+- [Cypress](https://www.cypress.io/) (testing framework)
 - [React Query](https://es.redux.js.org/) (State container for React apps. It's an alternative to Redux for big apps)
 - [ChakraUI](https://chakra-ui.com/) (UI components library for react)
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) (eslint plugin for react hooks)
 - [Formik](https://formik.org/) (Open Source form library for React & React Native)
+
+### File structure suggestion 1:
+
+![file structure](https://i.imgur.com/t2TFEB3.png) (I'm not sure if this is the best way to do it, but it's a good idea)
