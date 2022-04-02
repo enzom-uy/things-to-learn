@@ -20,6 +20,7 @@
 - [More Advanced React Router](https://reactrouter.com/docs/en/v6) (React Router)
  - How to make private routes in React Router
  - [Styled-components](https://www.styled-components.com/) (CSS-in-JS library for React)
+- [Three.js](https://threejs.org/) (3D library)
 
 3. Alternatives to - I want to know about
 - [Jotai](https://jotai.org/) (State container for React apps. It's an alternative to Redux for medium-sized apps)
