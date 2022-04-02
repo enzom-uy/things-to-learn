@@ -19,7 +19,7 @@
    - [Typescript](https://www.typescriptlang.org/) (better javascript)
    - [Axios](https://www.npmjs.com/package/axios) (promise based HTTP client)
    - [Redux](https://es.redux.js.org/) (State container for React apps)
-   - [Formik](https://formik.org/) (Open Source form library for React & React Native)
+   - [React Hook Form](https://react-hook-form.com/) (React form library)
    - [More Advanced React Router](https://reactrouter.com/docs/en/v6) (React Router)
      - How to make private routes in React Router
 
