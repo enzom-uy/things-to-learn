@@ -12,6 +12,7 @@
    - [useCallback](https://es.reactjs.org/docs/hooks-reference.html#usecallback) (React hook for memoizing callbacks and avoiding performance pitfalls)
    - [React 18](https://reactjs.org/blog/2022/03/29/react-v18.html) (New stuff in React 18)
    - [React Router](https://reactrouter.com/docs/en/v6) (React Router)
+   - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) (React Testing Library)
 
 2. I've heard about this technologies throughout my learning process and always wanted to learn about them:
 
