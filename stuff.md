@@ -18,9 +18,10 @@
 - [Axios](https://www.npmjs.com/package/axios) (promise based HTTP client)
 - [Redux](https://es.redux.js.org/) (State container for React apps)
 - [More Advanced React Router](https://reactrouter.com/docs/en/v6) (React Router)
- - How to make private routes in React Router
- - [Styled-components](https://www.styled-components.com/) (CSS-in-JS library for React)
+- How to make private routes in React Router
+- [Styled-components](https://www.styled-components.com/) (CSS-in-JS library for React)
 - [Three.js](https://threejs.org/) (3D library)
+- [The Wails Project](https://www.wails.io/) (Build desktop apps using Go and web technologies)
 
 3. Alternatives to - I want to know about
 - [Jotai](https://jotai.org/) (State container for React apps. It's an alternative to Redux for medium-sized apps)
